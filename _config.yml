@@ -1,0 +1,23 @@
+name: Subvertical
+favicon: null
+layout_spectrum: 0.683644738746807
+typography_spectrum: 0.5359713796060532
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9602553909644485
+  lightness: 0.948058377718553
+  saturation: 0.14663376891985536
+  rhythmicContrast: 0.27365178568288684
+purpose: []
